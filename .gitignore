@@ -106,3 +106,5 @@ pid
 # Deepspell data diles
 deepspell/data/*
 !deepspell/data/.gitkeep
+
+.~lock.*
